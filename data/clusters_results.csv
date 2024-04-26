@@ -1,0 +1,168 @@
+country,Cluster_kmeans,Cluster_AggClu,Cluster_dbscan,Cluster_GM
+Afghanistan,1,2,-1,2
+Albania,2,1,0,0
+Algeria,2,1,0,0
+Angola,1,1,-1,2
+Antigua and Barbuda,2,1,0,0
+Argentina,2,1,-1,0
+Armenia,2,1,0,0
+Australia,0,0,-1,1
+Austria,0,0,-1,1
+Azerbaijan,2,1,0,2
+Bahamas,2,1,0,0
+Bahrain,0,0,-1,1
+Bangladesh,2,1,1,2
+Barbados,2,1,0,0
+Belarus,2,1,0,0
+Belgium,0,0,-1,1
+Belize,2,1,0,2
+Benin,1,2,-1,2
+Bhutan,2,1,0,2
+Bolivia,2,1,1,2
+Bosnia and Herz.,2,1,0,0
+Botswana,1,1,-1,2
+Brazil,2,1,-1,0
+Brunei,0,0,-1,1
+Bulgaria,2,1,0,0
+Burkina Faso,1,2,-1,2
+Burundi,1,2,-1,2
+Cambodia,2,1,-1,2
+Cameroon,1,2,-1,2
+Canada,0,0,-1,1
+Cape Verde,2,1,0,0
+Central African Rep.,1,2,-1,2
+Chad,1,2,-1,2
+Chile,2,1,0,0
+China,2,1,0,0
+Colombia,2,1,-1,0
+Comoros,1,2,-1,2
+Dem. Rep. Congo,1,2,-1,2
+Congo,1,1,-1,2
+Costa Rica,2,1,0,0
+Côte d'Ivoire,1,2,-1,2
+Croatia,2,1,0,0
+Cyprus,0,1,-1,1
+Czechia,0,1,-1,0
+Denmark,0,0,-1,1
+Dominican Rep.,2,1,0,0
+Ecuador,2,1,0,0
+Egypt,2,1,1,0
+El Salvador,2,1,0,0
+Eq. Guinea,1,1,-1,2
+Eritrea,1,1,-1,2
+Estonia,2,1,-1,0
+Fiji,2,1,-1,2
+Finland,0,0,-1,1
+France,0,0,-1,1
+Gabon,1,1,-1,2
+Gambia,1,2,-1,2
+Georgia,2,1,0,0
+Germany,0,0,-1,1
+Ghana,1,1,-1,2
+Greece,0,0,-1,1
+Grenada,2,1,0,0
+Guatemala,2,1,0,2
+Guinea,1,2,-1,2
+Guinea-Bissau,1,2,-1,2
+Guyana,2,1,-1,2
+Haiti,1,2,-1,2
+Hungary,2,1,-1,0
+Iceland,0,0,-1,1
+India,2,1,1,2
+Indonesia,2,1,1,0
+Iran,2,1,-1,0
+Iraq,1,1,1,2
+Ireland,0,0,-1,1
+Israel,0,0,0,1
+Italy,0,0,-1,1
+Jamaica,2,1,0,0
+Japan,0,0,-1,1
+Jordan,2,1,0,2
+Kazakhstan,2,1,0,0
+Kenya,1,2,-1,2
+Kiribati,1,1,-1,2
+Kuwait,0,0,-1,1
+Kyrgyzstan,2,1,-1,2
+Laos,1,1,-1,2
+Latvia,2,1,0,0
+Lebanon,2,1,0,0
+Lesotho,1,1,-1,2
+Liberia,1,1,-1,2
+Libya,2,0,0,0
+Lithuania,2,1,-1,0
+Luxembourg,0,0,-1,1
+North Macedonia,2,1,0,0
+Madagascar,1,2,-1,2
+Malawi,1,2,-1,2
+Malaysia,2,1,-1,0
+Maldives,2,1,-1,0
+Mali,1,2,-1,2
+Malta,0,0,-1,1
+Mauritania,1,1,-1,2
+Mauritius,2,1,0,0
+"Micronesia, Fed. Sts.",2,1,0,2
+Moldova,2,1,0,2
+Mongolia,2,1,-1,2
+Montenegro,2,1,0,0
+Morocco,2,1,0,0
+Mozambique,1,2,-1,2
+Myanmar,2,1,-1,2
+Namibia,1,1,-1,2
+Nepal,2,1,1,2
+Netherlands,0,0,-1,1
+New Zealand,0,0,-1,1
+Niger,1,2,-1,2
+Nigeria,1,1,-1,2
+Norway,0,0,-1,1
+Oman,2,0,0,1
+Pakistan,1,1,-1,2
+Panama,2,1,-1,0
+Paraguay,2,1,0,0
+Peru,2,1,0,0
+Philippines,2,1,1,2
+Poland,2,1,0,0
+Portugal,0,0,-1,1
+Qatar,0,0,-1,1
+Romania,2,1,0,0
+Russia,2,1,0,0
+Rwanda,1,2,-1,2
+Samoa,2,1,0,2
+Saudi Arabia,2,0,0,1
+Senegal,1,2,-1,2
+Serbia,2,1,0,0
+Seychelles,2,1,-1,0
+Sierra Leone,1,2,-1,2
+Singapore,0,0,-1,1
+Slovakia,0,1,-1,0
+Slovenia,0,1,-1,1
+Solomon Is.,2,1,-1,2
+South Africa,1,1,1,2
+South Korea,0,1,-1,1
+Spain,0,0,-1,1
+Sri Lanka,2,1,0,2
+St. Vincent and the Grenadines,2,1,0,0
+Sudan,1,1,-1,2
+Suriname,2,1,0,0
+Sweden,0,0,-1,1
+Switzerland,0,0,-1,1
+Tajikistan,2,1,1,2
+Tanzania,1,2,-1,2
+Thailand,2,1,0,0
+Timor-Leste,1,1,-1,2
+Togo,1,2,-1,2
+Tonga,2,1,0,2
+Tunisia,2,1,0,0
+Turkey,2,1,-1,0
+Turkmenistan,2,1,-1,2
+Uganda,1,2,-1,2
+Ukraine,2,1,0,0
+United Arab Emirates,0,0,-1,1
+United Kingdom,0,0,-1,1
+United States of America,0,0,-1,1
+Uruguay,2,1,-1,0
+Uzbekistan,2,1,1,2
+Vanuatu,2,1,-1,2
+Venezuela,2,1,0,0
+Vietnam,2,1,-1,2
+Yemen,1,1,-1,2
+Zambia,1,2,-1,2
